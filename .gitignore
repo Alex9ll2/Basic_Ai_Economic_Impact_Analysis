@@ -1,6 +1,6 @@
 /data
 .csv
 .json
-.venv
+/venv
 .env
 /__pycache__
